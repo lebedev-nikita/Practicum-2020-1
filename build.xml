@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="Project" default="db">
+    <target name="db">
+        <ant antfile="db/build.xml"/>
+    </target>
+</project>
